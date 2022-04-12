@@ -1,0 +1,19 @@
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃     Bienvenue dans le systeme Vigenere   ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃ 0. Quitter                               ┃
+┃ 1. Tester mon code                       ┃
+┃     -> Entrez un code et le programme    ┃
+┃     -> vous renvoie sont etat avant et   ┃
+┃     -> apres decryptage                  ┃
+┃ 2. Entrer Code                           ┃
+┃     -> Entrez un code crypté et sauve-    ┃
+┃     -> -gardez le dans un fichier .txt   ┃
+┃ 3. Decrypter Code d'un fichier           ┃
+┃     -> Entrez votre code dans un         ┃
+┃     -> fichier "mon_code.txt" et il se   ┃
+┃     -> fera décrypter !                  ┃
+┃ 4. Decrypter Input                       ┃
+┃     -> Entrez un code et il sera         ┃
+┃     -> Décrypté !                        ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
